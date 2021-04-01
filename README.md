@@ -1,6 +1,12 @@
 # BeepyFresh
 ## Overview
-A simple Dashboard created from the Autotask API for displaying on monitors.
+A simple Dashboard created from the Autotask API for displaying unassigned tickets on monitors.
+
+## Features
+- Easy to use Settings.json file, no modifying or digging through code
+- User set alert for when unassigned tickets are about to breach SLA
+- Configurable Start and End of day so alert noise isn't playing all night
+- External CSS file to modify as you wish
 
 ## Requirements
 #### Autotask PowerShell module version 1.6.14
