@@ -1,0 +1,8 @@
+<style>
+body {   font-family: 'Campton Book', Campton;font-size: 14px;font-weight: 400;color: #3b3b3b;-webkit-font-smoothing: antialiased;font-smoothing: antialiased;background: #FFFFFF; }
+th { color:#000000; vertical-align: top; text-align: left; background-color: #b3be35; width:100%;}
+table, td { font-weight: bold; color: #000000; font-size:30pt;padding-right: 15px; margin: 0px ; vertical-align: center; text-align: left; border-style: solid; border:0px solid black; white-space:pre; }
+tr:nth-child(even) {background: #d7d3cc; color: black;}
+tr:nth-child(odd) {background: #ffffff; color: black;}
+h2 {font-family:Tahoma;}
+</style>
