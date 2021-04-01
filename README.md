@@ -7,6 +7,7 @@ A simple Dashboard created from the Autotask API for displaying unassigned ticke
 - User set alert for when unassigned tickets are about to breach SLA
 - Configurable Start and End of day so alert noise isn't playing all night
 - External CSS file to modify as you wish
+- Runs and tested on Windows 10 PowerShell 5.1 and Ubuntu 20.04 PowerShell 7.1
 
 ## Requirements
 #### Autotask PowerShell module version 1.6.14
