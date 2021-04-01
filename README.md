@@ -1,4 +1,7 @@
 # BeepyFresh
+## Overview
+A simple Dashboard created from the Autotask API for displaying on monitors.
+
 ## Requirements
 #### Autotask PowerShell module version 1.6.14
     Install-Module -Name Autotask -RequiredVersion 1.6.14 -Force
